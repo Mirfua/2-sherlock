@@ -18,6 +18,6 @@ Design: [sherlokas](https://cdn.discordapp.com/attachments/850245533838868480/85
 - Github pages
 - desktop only
 
-## Authors
+## Author
 
 [Jevgenijus](https://github.com/Mirfua)
