@@ -1,16 +1,16 @@
 # Procesas
 
-- [ ] Pradine failu struktura
+- [X] Pradine failu struktura
 - index.html
 - .gitignore
-- [ ] Paviesinti per girhub pages (gausim url)
-- [ ] readme.md
+- [X] Paviesinti per girhub pages (gausim url)
+- [X] readme.md
 - skirta aprasyti kas, kai ir kodel daro
 - iterpti noroda idaroma dizaina
 - iterpti nuoroda, kur tas musu kodas gali buti matomas
-- [ ] atliki dizaino analize
-- [ ] sukurti html
-- [ ] issikirpti nuotraukas ir jas naudoti
+- [X] atliki dizaino analize
+- [X] sukurti html
+- [X] issikirpti nuotraukas ir jas naudoti
 - panaudoti realu kelia
 - [ ] aprasyti stiliu
 
